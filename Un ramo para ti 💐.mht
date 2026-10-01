@@ -1,0 +1,671 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/index.html
+Subject: =?utf-8?Q?Un=20ramo=20para=20ti=20=F0=9F=92=90?=
+Date: Thu, 01 Oct 2026 02:46:32 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Ut3UEaI4IEjxfAN55Vh8KqYydEDM5e6DSd4Z6CiJlO----"
+
+
+------MultipartBoundary--Ut3UEaI4IEjxfAN55Vh8KqYydEDM5e6DSd4Z6CiJlO----
+Content-Type: text/html
+Content-ID: <frame-81CE02EA40FF1147C544822EDE290935@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/index.html
+
+<!DOCTYPE html><html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-826c4c1f-e32e-4c66-b5ad-9ceb863dc7f4@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-dd7b085f-b105-4427-9f72-26abb30ab17e@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content">
+    
+    
+    <!-- Injected code, this is not present in original code -->
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Un ramo para ti 💐</title>
+
+
+
+</head><c-toggler style="transform: translate(2px, 357px); display: none;"></c-toggler>
+
+
+<body>
+
+<h1>Un ramo de flores para mi amor 🌷</h1>
+<p>Hoy 30 de septiembre, es dia del novio. Yo se que tu y yo, no lo somos (aún) y tal vez, tu no lo crees importante o no sigas estas tendencias. Pero quiero dartela como un detalle y recordarte, lo mucho que te amo y lo importante que eres para mi. Y aunque, no te las puedo dar fisicamente, no es impedimento para no darte detalles.
+  Te amo y espero que te guste &lt;3, </p>
+  
+<div class="pantalla">
+
+
+    <h1>
+        💐 Un ramo para ti 💐
+    </h1>
+
+
+    <p class="subtitulo">
+        Cada carrito guarda una pequeña sorpresa...
+    </p>
+
+
+    <div class="ramo">
+
+
+        <!-- TALLOS DE LAS FLORES -->
+
+        <div class="talloFlor tf1"></div>
+        <div class="talloFlor tf2"></div>
+        <div class="talloFlor tf3"></div>
+        <div class="talloFlor tf4"></div>
+        <div class="talloFlor tf5"></div>
+        <div class="talloFlor tf6"></div>
+        <div class="talloFlor tf7"></div>
+        <div class="talloFlor tf8"></div>
+        <div class="talloFlor tf9"></div>
+        <div class="talloFlor tf10"></div>
+        <div class="talloFlor tf11"></div>
+        <div class="talloFlor tf12"></div>
+      
+      <!-- TALLO PRINCIPAL DEL RAMO -->
+<div class="talloPrincipal"></div>
+<div class="unionRamo"></div>
+        <!-- FLORES -->
+
+        <div class="flor flor1"></div>
+        <div class="flor flor2"></div>
+        <div class="flor flor3"></div>
+        <div class="flor flor4"></div>
+        <div class="flor flor5"></div>
+        <div class="flor flor6"></div>
+        <div class="flor flor7"></div>
+        <div class="flor flor8"></div>
+        <div class="flor flor9"></div>
+        <div class="flor flor10"></div>
+        <div class="flor flor11"></div>
+        <div class="flor flor12"></div>
+
+      
+        <!-- HOJAS -->
+
+        <div class="hoja hoja1"></div>
+        <div class="hoja hoja2"></div>
+        <div class="hoja hoja3"></div>
+        <div class="hoja hoja4"></div>
+
+
+        <!-- HOT WHEELS -->
+
+        <div class="carrito carro1">
+
+            <div class="rueda rueda1"></div>
+            <div class="rueda rueda2"></div>
+
+        </div>
+
+
+        <div class="carrito carro2">
+
+            <div class="rueda rueda1"></div>
+            <div class="rueda rueda2"></div>
+
+        </div>
+
+
+        <div class="carrito carro3">
+
+            <div class="rueda rueda1"></div>
+            <div class="rueda rueda2"></div>
+
+        </div>
+
+
+        <div class="carrito carro4">
+
+            <div class="rueda rueda1"></div>
+            <div class="rueda rueda2"></div>
+
+        </div>
+
+
+        <div class="carrito carro5">
+
+            <div class="rueda rueda1"></div>
+            <div class="rueda rueda2"></div>
+
+        </div>
+
+       
+      <!-- ENVOLTURA -->
+
+        <div class="envoltura"></div>
+
+
+        <!-- MOÑO -->
+
+        <div class="mono">
+
+            <div class="lazo lazoIzq"></div>
+
+            <div class="lazo lazoDer"></div>
+
+            <div class="centroMoño"></div>
+
+        </div>
+
+
+    </div>
+
+
+    <p class="instruccion">
+        👆 Toca un carrito para descubrir su carta
+    </p>
+
+
+</div>
+
+
+
+<!-- =========================
+     CARTA
+========================= -->
+
+<div class="overlay" id="overlay">
+
+
+    <div class="carta">
+
+
+        <button class="cerrar">
+            ×
+        </button>
+
+
+        <div class="emoji" id="emojiCarta">
+            💌
+        </div>
+
+
+        <h2 id="tituloCarta">Una pequeña sorpresa 🌷</h2>
+
+
+        <p id="textoCarta">Este ramo, representa todo el cariño y el amor que tengo por ti</p>
+
+
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+</body></html>
+------MultipartBoundary--Ut3UEaI4IEjxfAN55Vh8KqYydEDM5e6DSd4Z6CiJlO----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-dd7b085f-b105-4427-9f72-26abb30ab17e@mhtml.blink
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { margin: 0px; min-height: 100vh; background: radial-gradient(circle at 50% 20%, rgb(255, 245, 247), rgb(255, 223, 231) 45%, rgb(247, 183, 199)); font-family: Georgia, serif; overflow: hidden; }
+
+.pantalla { min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 15px; }
+
+h1 { color: rgb(159, 49, 85); font-size: 29px; margin: 0px 0px 4px; text-align: center; animation: 1s ease 0s 1 normal none running aparecer; }
+
+.subtitulo { color: rgb(159, 49, 85); font-size: 15px; margin: 0px 0px 5px; text-align: center; opacity: 0.8; }
+
+.ramo { position: relative; width: 360px; height: 570px; margin-top: 5px; }
+
+.flor { position: absolute; width: 55px; height: 55px; z-index: 4; animation: 3s ease-in-out 0s infinite normal none running flotar; }
+
+.flor::before { content: "🌸"; position: absolute; font-size: 55px; left: 0px; top: 0px; }
+
+.flor2::before, .flor6::before { content: "🌷"; }
+
+.flor3::before, .flor9::before { content: "🌹"; }
+
+.flor4::before, .flor10::before { content: "🌼"; }
+
+.flor5::before, .flor8::before { content: "🌺"; }
+
+.flor7::before, .flor11::before { content: "🌸"; }
+
+.flor12::before { content: "💮"; }
+
+.flor1 { top: 25px; left: 20px; }
+
+.flor2 { top: 5px; left: 105px; animation-delay: 0.4s; }
+
+.flor3 { top: 25px; right: 85px; animation-delay: 0.8s; }
+
+.flor4 { top: 15px; right: 10px; animation-delay: 1.2s; }
+
+.flor5 { top: 95px; left: 45px; animation-delay: 1.5s; }
+
+.flor6 { top: 85px; right: 35px; animation-delay: 1.8s; }
+
+.flor7 { top: 155px; left: 15px; transform: scale(0.85); }
+
+.flor8 { top: 150px; left: 105px; transform: scale(0.75); }
+
+.flor9 { top: 145px; right: 100px; transform: scale(0.8); }
+
+.flor10 { top: 165px; right: 10px; transform: scale(0.85); }
+
+.flor11 { top: 225px; left: 55px; transform: scale(0.7); }
+
+.flor12 { top: 220px; right: 55px; transform: scale(0.7); }
+
+.hoja { position: absolute; width: 65px; height: 28px; background: linear-gradient(135deg, rgb(57, 124, 54), rgb(101, 169, 87)); border-radius: 100% 0px; z-index: 3; }
+
+.hoja1 { left: 78px; top: 265px; transform: rotate(-35deg); }
+
+.hoja2 { left: 105px; top: 300px; transform: rotate(25deg); }
+
+.hoja3 { left: 185px; top: 290px; transform: rotate(-25deg); }
+
+.hoja4 { left: 220px; top: 265px; transform: rotate(35deg); }
+
+.carrito { position: absolute; width: 112px; height: 60px; border-radius: 45px 55px 18px 18px; z-index: 10; cursor: pointer; box-shadow: rgba(0, 0, 0, 0.25) 0px 8px 12px; transition: 0.3s; animation: 1s ease 0s 1 normal backwards running carroEntrada; }
+
+.carro1 { top: 25px; left: 50%; transform: translateX(-50%) rotate(-3deg); z-index: 5; }
+
+.carro2 { top: 105px; left: 17%; transform: rotate(-8deg); z-index: 4; }
+
+.carro3 { top: 105px; right: 17%; transform: rotate(8deg); z-index: 4; }
+
+.carro4 { top: 190px; left: 30%; transform: rotate(-4deg); z-index: 6; }
+
+.carro5 { top: 190px; right: 30%; transform: rotate(4deg); z-index: 6; }
+
+.carrito::before { content: ""; position: absolute; width: 58px; height: 31px; left: 27px; top: -19px; background: inherit; border-radius: 35px 35px 5px 5px; }
+
+.carrito::after { content: ""; position: absolute; width: 42px; height: 18px; left: 36px; top: -13px; background: rgb(189, 239, 255); border-radius: 12px 12px 3px 3px; z-index: 2; }
+
+.rueda { position: absolute; width: 22px; height: 22px; background: rgb(34, 34, 34); border: 4px solid rgb(119, 119, 119); border-radius: 50%; bottom: -10px; z-index: 5; }
+
+.rueda1 { left: 15px; }
+
+.rueda2 { right: 15px; }
+
+.carro1 { top: 70px !important; left: 50% !important; transform: translateX(-50%) rotate(-5deg) !important; z-index: 15 !important; }
+
+.carro2 { top: 125px !important; left: 8% !important; transform: rotate(-15deg) !important; z-index: 15 !important; }
+
+.carro3 { top: 125px !important; right: 8% !important; transform: rotate(15deg) !important; z-index: 15 !important; }
+
+.carro4 { top: 200px !important; left: 24% !important; transform: rotate(-8deg) !important; z-index: 15 !important; }
+
+.carro5 { top: 200px !important; right: 24% !important; transform: rotate(8deg) !important; z-index: 15 !important; }
+
+.carrito:active { transform: scale(1.15) rotate(0deg); }
+
+.talloFlor { position: absolute; width: 6px; height: 285px; background: linear-gradient(to right, rgb(57, 122, 53), rgb(99, 166, 83), rgb(57, 122, 53)); bottom: 115px; border-radius: 10px; transform-origin: center bottom; z-index: 2; }
+
+.tf1 { left: 75px; transform: rotate(-22deg); }
+
+.tf2 { left: 115px; transform: rotate(-12deg); }
+
+.tf3 { left: 165px; transform: rotate(-4deg); }
+
+.tf4 { left: 210px; transform: rotate(10deg); }
+
+.tf5 { left: 250px; transform: rotate(20deg); }
+
+.tf6 { left: 95px; transform: rotate(-17deg); }
+
+.tf7 { left: 140px; transform: rotate(-7deg); }
+
+.tf8 { left: 190px; transform: rotate(7deg); }
+
+.tf9 { left: 230px; transform: rotate(17deg); }
+
+.envoltura { position: absolute; bottom: 35px; left: 25px; width: 310px; height: 235px; background: linear-gradient(135deg, rgb(255, 250, 246) 0%, rgb(247, 222, 213) 48%, rgb(239, 196, 197) 100%); clip-path: polygon(12% 0px, 88% 0px, 100% 100%, 0px 100%); border-radius: 10px 10px 25px 25px; z-index: 18; box-shadow: rgba(0, 0, 0, 0.18) 0px 12px 25px; }
+
+.envoltura::before { content: ""; position: absolute; left: 18px; top: 18px; width: 274px; height: 217px; background: linear-gradient(125deg, rgb(255, 245, 239), rgb(244, 211, 207)); clip-path: polygon(10% 0px, 90% 0px, 100% 100%, 0px 100%); opacity: 0.85; }
+
+.envoltura::after { content: ""; position: absolute; left: 50%; top: 0px; width: 3px; height: 100%; background: rgba(255, 255, 255, 0.55); transform: translateX(-50%); }
+
+.mono { position: absolute; bottom: 18px; left: 120px; width: 120px; height: 80px; z-index: 30; }
+
+.lazo { position: absolute; width: 70px; height: 55px; background: rgb(244, 143, 177); border: 3px solid rgb(236, 111, 154); border-radius: 50%; top: 10px; }
+
+.lazoIzq { left: 0px; transform: rotate(20deg); }
+
+.lazoDer { right: 0px; transform: rotate(-20deg); }
+
+.centroMoño { position: absolute; width: 38px; height: 38px; background: rgb(239, 120, 168); border-radius: 50%; left: 41px; top: 20px; z-index: 5; }
+
+.instruccion { color: rgb(159, 49, 85); font-size: 16px; margin-top: -5px; animation: 2s ease 0s infinite normal none running parpadear; }
+
+.overlay { position: fixed; inset: 0px; background: rgba(80, 20, 40, 0.65); display: none; align-items: center; justify-content: center; padding: 20px; z-index: 100; }
+
+.overlay.abierta { display: flex; }
+
+.carta { width: min(390px, 90vw); min-height: 350px; background: linear-gradient(135deg, rgb(255, 250, 245), rgb(255, 233, 239)); border-radius: 18px; padding: 35px 25px; text-align: center; color: rgb(109, 41, 67); box-shadow: rgba(0, 0, 0, 0.4) 0px 20px 60px; animation: 0.5s ease 0s 1 normal none running cartaEntrada; }
+
+.carta .emoji { font-size: 45px; }
+
+.carta h2 { font-size: 27px; color: rgb(179, 61, 98); margin: 15px 0px; }
+
+.carta p { font-size: 18px; line-height: 1.7; }
+
+.cerrar { border-width: medium; border-style: none; border-color: currentcolor; border-image: none; background: rgb(216, 91, 130); color: white; width: 38px; height: 38px; border-radius: 50%; font-size: 22px; cursor: pointer; float: right; }
+
+@keyframes aparecer { 
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+@keyframes carroEntrada { 
+  0% { opacity: 0; transform: translateY(50px) scale(0.5); }
+  100% { opacity: 1; }
+}
+
+@keyframes cartaEntrada { 
+  0% { opacity: 0; transform: scale(0.5) rotate(-4deg); }
+  100% { opacity: 1; transform: scale(1) rotate(0deg); }
+}
+
+@keyframes flotar { 
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-5px); }
+}
+
+@keyframes parpadear { 
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
+@media (max-width: 430px) {
+  .ramo { transform: scale(0.9); margin-top: -5px; margin-bottom: -35px; }
+  h1 { font-size: 26px; }
+  .flor { position: absolute; width: 62px; height: 62px; z-index: 10; animation: 3s ease-in-out 0s infinite normal none running flotar; }
+  .flor::before { content: "🌼"; position: absolute; font-size: 62px; line-height: 1; left: 0px; top: 0px; }
+  .flor::after { display: none; }
+  .flor1 { top: 25px; left: 48px; }
+  .flor2 { top: 5px; left: 148px; }
+  .flor3 { top: 25px; right: 42px; }
+  .flor4 { top: 105px; left: 15px; }
+  .flor5 { top: 115px; left: 105px; }
+  .flor6 { top: 105px; right: 12px; }
+  .flor7 { top: 170px; left: 45px; }
+  .flor8 { top: 180px; left: 145px; }
+  .flor9 { top: 165px; right: 45px; }
+  .flor10 { top: 235px; left: 75px; }
+  .flor11 { top: 225px; left: 180px; }
+  .flor12 { top: 240px; right: 65px; }
+  .talloFlor { position: absolute; width: 6px; height: 260px; background: linear-gradient(to right, rgb(57, 122, 53), rgb(99, 166, 83), rgb(57, 122, 53)); border-radius: 10px; transform-origin: center top; z-index: 3; }
+  .tf1 { top: 78px; left: 76px; transform: rotate(12deg); }
+  .tf2 { top: 58px; left: 178px; transform: rotate(2deg); }
+  .tf3 { top: 78px; left: 287px; transform: rotate(-12deg); }
+  .tf4 { top: 158px; left: 43px; transform: rotate(22deg); }
+  .tf5 { top: 168px; left: 133px; transform: rotate(8deg); }
+  .tf6 { top: 158px; left: 318px; transform: rotate(-22deg); }
+  .tf7 { top: 228px; left: 73px; transform: rotate(18deg); }
+  .tf8 { top: 238px; left: 173px; transform: rotate(3deg); }
+  .tf9 { top: 225px; left: 278px; transform: rotate(-17deg); }
+  .tf10 { top: 295px; left: 103px; transform: rotate(14deg); }
+  .tf11 { top: 285px; left: 208px; transform: rotate(-5deg); }
+  .tf12 { top: 300px; left: 263px; transform: rotate(-14deg); }
+  .hoja { position: absolute; width: 68px; height: 29px; background: linear-gradient(135deg, rgb(57, 124, 54), rgb(104, 169, 88)); border-radius: 100% 0px; z-index: 6; }
+  .hoja1 { top: 220px; left: 28px; transform: rotate(-38deg); }
+  .hoja2 { top: 250px; left: 75px; transform: rotate(27deg); }
+  .hoja3 { top: 235px; right: 42px; transform: rotate(38deg); }
+  .hoja4 { top: 275px; right: 82px; transform: rotate(-28deg); }
+  .carrito { width: 100px; height: 54px; z-index: 15; }
+  .carro1 { top: 72px !important; left: 82px !important; transform: rotate(-10deg) !important; }
+  .carro2 { top: 70px !important; right: 65px !important; left: auto !important; transform: rotate(9deg) !important; }
+  .carro3 { top: 145px !important; left: 50% !important; right: auto !important; transform: translateX(-50%) rotate(-3deg) !important; }
+  .carro4 { top: 195px !important; left: 58px !important; transform: rotate(-8deg) !important; }
+  .carro5 { top: 195px !important; right: 55px !important; left: auto !important; transform: rotate(8deg) !important; }
+  .envoltura { position: absolute; left: 20px; bottom: 20px; width: 320px; height: 190px; background: linear-gradient(135deg, rgb(255, 250, 245) 0%, rgb(248, 222, 213) 50%, rgb(239, 200, 202) 100%); clip-path: polygon(20% 0px, 80% 0px, 100% 100%, 0px 100%); border-radius: 10px 10px 25px 25px; z-index: 20; box-shadow: rgba(0, 0, 0, 0.15) 0px 10px 20px; }
+  .envoltura::before { content: ""; position: absolute; left: 20px; top: 12px; width: 280px; height: 175px; background: rgb(255, 244, 238); clip-path: polygon(20% 0px, 80% 0px, 100% 100%, 0px 100%); z-index: 1; }
+  .envoltura::after { content: ""; position: absolute; left: 50%; top: 0px; width: 3px; height: 100%; background: rgba(255, 255, 255, 0.6); transform: translateX(-50%); z-index: 2; }
+  .mono { position: absolute; bottom: 82px; left: 50%; width: 135px; height: 80px; transform: translateX(-50%); z-index: 30; }
+  .lazo { position: absolute; width: 72px; height: 58px; background: rgb(244, 143, 177); border: 3px solid rgb(236, 111, 154); border-radius: 50%; top: 8px; }
+  .lazoIzq { left: 0px; transform: rotate(18deg); }
+  .lazoDer { right: 0px; transform: rotate(-18deg); }
+  .centroMoño { position: absolute; width: 40px; height: 40px; background: rgb(239, 120, 168); border-radius: 50%; left: 47px; top: 20px; z-index: 5; }
+  .talloPrincipal { position: absolute; width: 12px; height: 170px; left: 50%; bottom: 25px; transform: translateX(-50%); background: linear-gradient(to right, rgb(50, 107, 49), rgb(92, 156, 78), rgb(50, 107, 49)); border-radius: 20px; z-index: 4; }
+  .unionRamo { position: absolute; width: 150px; height: 55px; left: 50%; bottom: 125px; transform: translateX(-50%); background: rgb(75, 135, 63); border-radius: 50%; z-index: 5; }
+}
+
+.ramo { position: relative; width: 360px; height: 570px; }
+
+.flor { position: absolute; width: 62px; height: 62px; z-index: 12; animation: auto ease 0s 1 normal none running none !important; }
+
+.flor::before { position: absolute; width: 62px; height: 62px; line-height: 1; left: 0px; top: 0px; content: "🌼" !important; font-size: 62px !important; }
+
+.flor1 { top: 20px; left: 35px; }
+
+.flor2 { top: 5px; left: 145px; }
+
+.flor3 { top: 22px; right: 30px; }
+
+.flor4 { top: 85px; left: 5px; }
+
+.flor5 { top: 95px; left: 92px; }
+
+.flor6 { top: 82px; right: 5px; }
+
+.flor7 { top: 160px; left: 35px; }
+
+.flor8 { top: 170px; left: 130px; }
+
+.flor9 { top: 155px; right: 35px; }
+
+.flor10 { top: 225px; left: 75px; }
+
+.flor11 { top: 215px; left: 175px; }
+
+.flor12 { top: 225px; right: 70px; }
+
+.talloFlor { position: absolute; width: 7px; height: 300px; background: linear-gradient(to right, rgb(50, 107, 49), rgb(91, 157, 77), rgb(50, 107, 49)); border-radius: 10px; transform-origin: center top; z-index: 3; }
+
+.tf1 { top: 70px; left: 65px; transform: rotate(-17deg); }
+
+.tf2 { top: 60px; left: 175px; transform: rotate(-3deg); }
+
+.tf3 { top: 70px; left: 295px; transform: rotate(17deg); }
+
+.tf4 { top: 135px; left: 35px; transform: rotate(-20deg); }
+
+.tf5 { top: 145px; left: 120px; transform: rotate(-7deg); }
+
+.tf6 { top: 135px; left: 315px; transform: rotate(20deg); }
+
+.tf7 { top: 215px; left: 65px; transform: rotate(-14deg); }
+
+.tf8 { top: 225px; left: 160px; transform: rotate(-2deg); }
+
+.tf9 { top: 210px; left: 285px; transform: rotate(14deg); }
+
+.tf10 { top: 275px; left: 105px; transform: rotate(-8deg); }
+
+.tf11 { top: 265px; left: 205px; transform: rotate(5deg); }
+
+.tf12 { top: 275px; left: 260px; transform: rotate(12deg); }
+
+.hoja { position: absolute; width: 75px; height: 30px; background: linear-gradient(135deg, rgb(50, 111, 49), rgb(112, 173, 93)); border-radius: 100% 0px; z-index: 7; }
+
+.hoja1 { top: 245px; left: 18px; transform: rotate(-35deg); }
+
+.hoja2 { top: 285px; left: 70px; transform: rotate(25deg); }
+
+.hoja3 { top: 265px; right: 20px; transform: rotate(35deg); }
+
+.hoja4 { top: 305px; right: 70px; transform: rotate(-28deg); }
+
+.unionRamo { display: none !important; }
+
+.talloPrincipal { position: absolute; width: 14px; height: 190px; left: 50%; bottom: 20px; transform: translateX(-50%); background: linear-gradient(to right, rgb(50, 107, 49), rgb(91, 157, 77), rgb(50, 107, 49)); border-radius: 20px; z-index: 4; }
+
+.carrito { width: 100px !important; height: 54px !important; z-index: 16 !important; }
+
+.carro1 { top: 70px !important; left: 88px !important; right: auto !important; transform: rotate(-12deg) !important; }
+
+.carro2 { top: 75px !important; right: 70px !important; left: auto !important; transform: rotate(12deg) !important; }
+
+.carro3 { top: 135px !important; left: 50% !important; right: auto !important; transform: translateX(-50%) rotate(-4deg) !important; }
+
+.carro4 { top: 190px !important; left: 65px !important; right: auto !important; transform: rotate(-10deg) !important; }
+
+.carro5 { top: 190px !important; right: 60px !important; left: auto !important; transform: rotate(10deg) !important; }
+
+.envoltura { position: absolute !important; left: 15px !important; bottom: 20px !important; width: 330px !important; height: 205px !important; background: linear-gradient(135deg, rgb(255, 250, 246), rgb(248, 221, 213) 50%, rgb(237, 193, 199)) !important; clip-path: polygon(18% 0px, 82% 0px, 100% 100%, 0px 100%) !important; z-index: 20 !important; }
+
+.envoltura::before { left: 18px !important; top: 12px !important; width: 294px !important; height: 188px !important; background: linear-gradient(135deg, rgb(255, 248, 242), rgb(242, 209, 207)) !important; }
+
+.mono { position: absolute !important; left: 50% !important; bottom: 72px !important; transform: translateX(-50%) !important; width: 140px !important; height: 85px !important; z-index: 30 !important; }
+
+.lazo { width: 75px !important; height: 58px !important; top: 10px !important; }
+
+.lazoIzq { left: 0px !important; right: auto !important; transform: rotate(18deg) !important; }
+
+.lazoDer { right: 0px !important; left: auto !important; transform: rotate(-18deg) !important; }
+
+.centroMoño { width: 42px !important; height: 42px !important; left: 49px !important; top: 19px !important; }
+
+.carro1 { border: 3px solid rgb(255, 179, 0); background: linear-gradient(135deg, rgb(229, 57, 53), rgb(142, 0, 0)) !important; }
+
+.carro2 { border: 3px solid rgb(66, 165, 245); background: linear-gradient(135deg, rgb(21, 101, 192), rgb(0, 47, 108)) !important; }
+
+.carro3 { border: 3px solid rgb(255, 23, 68); background: linear-gradient(135deg, rgb(33, 33, 33), rgb(0, 0, 0)) !important; }
+
+.carro4 { border: 3px solid rgb(255, 241, 118); background: linear-gradient(135deg, rgb(249, 168, 37), rgb(230, 81, 0)) !important; }
+
+.carro5 { border: 3px solid rgb(206, 147, 216); background: linear-gradient(135deg, rgb(123, 31, 162), rgb(49, 27, 146)) !important; }
+
+.carrito::after { background: linear-gradient(135deg, rgb(223, 248, 255), rgb(98, 201, 232)) !important; }
+
+.carrito::before { background: inherit !important; }
+
+.envoltura { box-shadow: rgba(0, 0, 0, 0.15) 0px 12px 25px; position: absolute !important; left: 0px !important; top: 170px !important; width: 360px !important; height: 380px !important; background: linear-gradient(135deg, rgb(255, 250, 246), rgb(247, 221, 213) 50%, rgb(237, 195, 200)) !important; clip-path: polygon(0px 0px, 25% 15%, 50% 27%, 75% 15%, 100% 0px, 88% 100%, 12% 100%) !important; z-index: 8 !important; }
+
+.envoltura::before { content: ""; position: absolute; left: 15px; top: 15px; width: 330px; height: 350px; background: linear-gradient(135deg, rgb(255, 248, 243), rgb(243, 209, 207)); clip-path: polygon(0px 0px, 25% 16%, 50% 28%, 75% 16%, 100% 0px, 87% 100%, 13% 100%); }
+
+.envoltura::after { content: ""; position: absolute; inset: 0px; background: linear-gradient(105deg, transparent 25%, rgba(255, 255, 255, 0.5) 26%, transparent 28%), linear-gradient(75deg, transparent 72%, rgba(255, 255, 255, 0.5) 73%, transparent 75%); pointer-events: none; }
+------MultipartBoundary--Ut3UEaI4IEjxfAN55Vh8KqYydEDM5e6DSd4Z6CiJlO----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-826c4c1f-e32e-4c66-b5ad-9ceb863dc7f4@mhtml.blink
+
+@charset "utf-8";
+
+﻿html[console-only], html[console-only] body { width: 100%; height: 100%; margin: 0px; overflow: hidden; background: var(--primary-color, #313131) !important; }
+
+c-console { --console-background: #313131; --console-background-text: #eee; --console-surface: #313131; --console-surface-text: #eee; --console-control: #414141; --console-control-text: #d6d3d3; --console-active: #555; --console-active-text: #fff; --console-border: rgba(204, 204, 204, 0.35); --console-muted: #aaa; --console-placeholder: #929292; --console-scrollbar: #666; --console-danger: #ff9b9b; --console-danger-fill: #a00000; --console-warning-fill: #ffb95c; --console-error-surface: #422; --console-warning-surface: #633; --console-link: #99f; --console-accent: rgb(120, 105, 225); --console-function: rgb(145, 136, 168); --console-success: rgb(59, 161, 59); box-sizing: border-box; display: flex; -webkit-box-orient: vertical; -webkit-box-direction: normal; flex-direction: column; position: fixed; top: var(--console-viewport-top, 0); left: var(--console-viewport-left, 0); width: var(--console-viewport-width, 100vw); height: var(--console-viewport-height, 100dvh); min-height: 0px; overflow: hidden; z-index: 99998; background: var(--console-background); color: var(--console-background-text); font-family: var(--app-font-family, Verdana, Geneva, Tahoma, sans-serif); color-scheme: dark; }
+
+html[console-only] c-console { --console-background: var(--primary-color, #313131); --console-background-text: var(--primary-text-color, #eee); --console-surface: var(--secondary-color, var(--primary-color, #313131)); --console-surface-text: var( --secondary-text-color, var(--primary-text-color, #eee) ); --console-control: var( --popup-background-color, var(--secondary-color, #414141) ); --console-control-text: var( --popup-text-color, var(--secondary-text-color, #d6d3d3) ); --console-active: var(--active-color, #555); --console-active-text: var(--active-text-color, #fff); --console-border: var(--border-color, rgba(204, 204, 204, 0.35)); --console-muted: var(--secondary-text-color, #aaa); --console-placeholder: var(--secondary-text-color, #929292); --console-scrollbar: var(--scrollbar-color, #666); --console-danger: var(--error-text-color, #ff9b9b); --console-danger-fill: var(--danger-color, #a00000); --console-warning-fill: var(--error-text-color, #ffb95c); --console-link: var(--link-text-color, #99f); --console-accent: var(--active-color, rgb(120, 105, 225)); --console-function: var(--secondary-text-color, rgb(145, 136, 168)); --console-success: var(--success-text-color, rgb(59, 161, 59)); }
+
+html[theme-type="light"] c-console { color-scheme: light; }
+
+c-console[standalone] { position: absolute; inset: 0px; width: auto; height: auto; }
+
+.__c-action { min-height: 32px; padding: 5px 8px; border: 0px; border-radius: 3px; background: rgba(0, 0, 0, 0); color: var(--console-surface-text); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 0.76rem; touch-action: manipulation; }
+
+.__c-action:active { background: var(--console-active); color: var(--console-active-text); }
+
+.__c-action-danger { color: var(--console-danger); }
+
+.__c-context { box-sizing: border-box; max-width: 112px; min-height: 32px; padding: 4px 20px 4px 6px; border: 0px; border-radius: 3px; outline: none; background: var(--console-control); color: var(--console-control-text); font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; font-size: 0.7rem; }
+
+.__c-context:focus-visible { outline: 1px solid var(--console-active); outline-offset: -1px; }
+
+.__c-context:disabled { opacity: 0.55; }
+
+c-output { display: block; -webkit-box-flex: 1; flex: 1 1 100%; min-height: 0px; overflow: auto; overscroll-behavior: contain; scrollbar-width: thin; scrollbar-color: var(--console-scrollbar) rgba(0,0,0,0); }
+
+c-output > .variable-virtual-spacer, c-output > .variable-virtual-items { display: block; width: 100%; }
+
+c-input { box-sizing: border-box; display: flex; -webkit-box-align: end; align-items: flex-end; gap: 6px; width: 100%; min-height: 96px; padding: 7px 7px max(8px,env(safe-area-inset-bottom)); background: var(--console-surface); color: var(--console-surface-text); }
+
+c-input::before { content: ">>"; align-self: flex-start; padding-top: 9px; color: var(--console-accent); font: italic 13px / 1 "Courier New", Courier, monospace; }
+
+#__c-input { box-sizing: border-box; display: block; -webkit-box-flex: 1; flex: 1 1 auto; width: 100%; min-width: 0px; min-height: 82px; max-height: 120px; margin: 0px; padding: 7px 3px; border: 0px; outline: none; resize: none; overflow-y: auto; background: rgba(0, 0, 0, 0); color: var(--console-surface-text); font: 13px / 1.45 "Courier New", Courier, monospace; caret-color: currentcolor !important; }
+
+c-input-actions { display: flex; -webkit-box-flex: 0; flex: 0 0 auto; -webkit-box-align: center; align-items: center; gap: 2px; padding-bottom: 2px; }
+
+#__c-input::-webkit-input-placeholder { color: var(--console-placeholder); opacity: 0.75; }
+
+#__c-input::placeholder { color: var(--console-placeholder); opacity: 0.75; }
+
+#__c-input:disabled { opacity: 0.55; }
+
+c-message { box-sizing: border-box; display: flex; position: relative; flex-wrap: wrap; min-height: 45px; padding: 5px 7px 4px; border-bottom: 1px solid var(--console-border); background: var(--console-surface); color: var(--console-surface-text); font-size: 0.9rem; }
+
+c-message[log-level="error"] { background: color-mix(in srgb, var(--console-danger-fill) 16%, var(--console-surface)); }
+
+c-message[log-level="warn"] { background: color-mix(in srgb, var(--console-warning-fill) 20%, var(--console-surface)); }
+
+c-text, c-code { box-sizing: border-box; display: block; width: 100%; max-width: 100%; padding: 2px 4px; overflow-wrap: anywhere; white-space: pre-wrap; font: 0.9rem / 1.45 Verdana, Geneva, Tahoma, sans-serif; }
+
+c-code { position: relative; padding-right: 42px; overflow-x: auto; color: var(--console-surface-text); font-family: "Courier New", Courier, monospace; white-space: pre-wrap; cursor: pointer; }
+
+c-code::before { content: ">>"; padding-right: 5px; font-style: italic; }
+
+c-code::after { content: "use"; position: absolute; top: 1px; right: 1px; padding: 1px 6px; border-radius: 3px; background: var(--console-active); color: var(--console-active-text); font: .62rem/1.4 var(--app-font-family, sans-serif); }
+
+c-stack { box-sizing: border-box; display: flex; -webkit-box-flex: 1; flex: 1 0 100%; -webkit-box-pack: justify; justify-content: space-between; gap: 8px; min-width: 0px; margin-top: 3px; padding: 3px 4px 0px; color: var(--console-muted); opacity: 0.8; font-size: 0.7rem; }
+
+c-date, c-trace { min-width: 0px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+c-trace { direction: rtl; text-align: right; }
+
+c-object { color: var(--console-link); text-decoration: underline; }
+
+c-line { display: block; }
+
+c-key { margin-right: 5px; color: var(--console-accent); font-size: 0.9rem; }
+
+c-text.__c-boolean, c-text.__c-number, c-text.__c-symbol { color: var(--console-accent); }
+
+c-text.__c-function { color: var(--console-function); font-family: "Courier New", Courier, monospace; }
+
+c-text.__c-object, c-text.__c-undefined { color: var(--console-success); }
+
+c-text.__c-string { color: var(--console-success); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"] { cursor: pointer; user-select: none; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 3px; }
+
+c-type[type="body-toggler"]::after { content: " {…}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; color: var(--console-surface-text); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid var(--console-border); }
+
+c-table c-cell { display: table-cell; padding: 5px; }
+
+c-toggler { position: fixed; top: 0px; left: 0px; width: 30px; height: 30px; border-radius: 50%; z-index: 99999; opacity: 0.5; background-color: rgb(255, 255, 255); background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px auto; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; touch-action: none; }
+
+c-toggler:active { opacity: 0.8; }
+
+[hidden] { display: none !important; }
+
+@supports not (height: 100dvh) {
+  c-console { height: var(--console-viewport-height, 100vh); }
+}
+------MultipartBoundary--Ut3UEaI4IEjxfAN55Vh8KqYydEDM5e6DSd4Z6CiJlO------
